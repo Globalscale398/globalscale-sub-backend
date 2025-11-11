@@ -8,11 +8,11 @@
   },
   "dependencies": {
     "express": "^4.18.2",
-    "firebase-admin": "^12.12.0"
+    "firebase-admin": "^12.11.0"
   },
   "engines": {
     "node": "20.x"
   },
-  "author": "Globalscale Team  < globalscalesolution@gmail.com > clement mathew",
+  "author": "Globalscale Team <globalscalesolution@gmail.com> clement mathew",
   "license": "MIT"
 }
